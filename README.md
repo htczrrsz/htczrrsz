@@ -3,7 +3,8 @@
 
 ###   Hi there, I'm Hatice  :woman_technologist: 
 
-- 🔭  I’m currently working on UI and Backend Automation Testing
+    - 🔭  I’m currently working on UI and Backend Automation Testing
+ <h5 align="center"> 📫 Connect with me on https://www.linkedin.com/in/haticezararsiz/ </h5>
 
 
 ### Skills
